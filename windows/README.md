@@ -52,3 +52,4 @@ Now you should be able to open `ReactNativeCameraCPP61.sln` in Visual Studio and
 
 //1 from 1 branch
 //2 from 2 branch
+//3 from 3 branch
