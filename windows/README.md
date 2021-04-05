@@ -49,3 +49,5 @@ yarn add react-native-windows@^0.61 --dev
 ```
 
 Now you should be able to open `ReactNativeCameraCPP61.sln` in Visual Studio and build the project.
+
+//1 from 1 branch
